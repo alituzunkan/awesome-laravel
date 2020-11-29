@@ -141,6 +141,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
+* [AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - AdminLTE Easy Install Package
 * [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 
 ##### Media & Document Management
